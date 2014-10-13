@@ -1,15 +1,15 @@
 {
  "name":"Jensz12 Theme",
- "short_name": "Jensz12",
+ "short_name":"Jensz12",
  "version":"2.4",
  "manifest_version":2,
  "description":"Jensz12 Theme",
  "homepage_url": "http://jensz12.com",
- "author":"Jensz12",
+ "author": "Jensz12",
  "icons": {"16": "images/icon16.png",
- 	   "32": "images/icon32.png",
+ 	       "32": "images/icon32.png",
            "48": "images/icon48.png",
-          "128": "images/icon128.png" },
+           "128": "images/icon128.png"},
  "theme":{
  "images":{
 	"theme_ntp_background":"images/theme_ntp_background.jpeg",
@@ -32,5 +32,5 @@
 	"ntp_background_repeat":"no-repeat",
 	"ntp_background_alignment":"center"
 	}
-     }
+   }
   }
