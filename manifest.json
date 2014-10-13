@@ -5,6 +5,7 @@
  "manifest_version":2,
  "description":"Jensz12 Theme",
  "homepage_url": "http://jensz12.com",
+ "author": Jens Møller,
  "icons": {"16": "images/icon16.png",
  	   "32": "images/icon32.png",
            "48": "images/icon48.png",
