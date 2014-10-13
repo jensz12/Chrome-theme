@@ -17,3 +17,4 @@ chrome://extension.
 
 <br>Note to self:</br>
 <br>Check this, if something is broken: https://developer.chrome.com/extensions/manifest</br>
+<br>https://developer.chrome.com/extensions/themes</br>
