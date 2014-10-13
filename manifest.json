@@ -24,7 +24,7 @@
 	},
  "properties":{
 	"ntp_background_repeat":"no-repeat",
-	"ntp_background_alignment":"left top"
+	"ntp_background_alignment":"center"
 	}
      }
   }
