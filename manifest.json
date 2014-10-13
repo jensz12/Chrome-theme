@@ -3,7 +3,7 @@
  "manifest_version":2,
  "name":"Jensz12 Theme",
  "short_name":"Jensz12",
- "description":"Jensz12 Theme",
+ "description":"Jensz12 Theme for Chrome/Chromium browsers",
  "homepage_url": "http://jensz12.com",
  "author": "Jensz12",
  "icons": {"16": "images/icon16.png",
