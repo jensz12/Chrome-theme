@@ -2,7 +2,7 @@ Jensz12 Theme for Google Chrome/Chromium
 ============
 
 <br>Find the release in the webstore here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
-<br>Or her, if you want to compile it your self: https://github.com/Jensz12site/Chrome-theme/releases</br>
+<br>Or here if you want to compile it yourself: https://github.com/Jensz12site/Chrome-theme/releases</br>
 
 <h1>How to compile a Chrome theme (In Chrome/Chromium):</h1>
 
