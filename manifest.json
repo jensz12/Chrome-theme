@@ -4,6 +4,7 @@
  "version":"2.3",
  "manifest_version":2,
  "description":"Jensz12 Theme",
+ "homepage_url": "http://jensz12.com",
  "theme":{
  "images":{
 	"theme_ntp_background":"images/theme_ntp_background.jpeg",
