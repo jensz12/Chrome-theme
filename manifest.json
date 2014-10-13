@@ -6,6 +6,7 @@
  "description":"Jensz12 Theme for Chrome/Chromium browsers",
  "homepage_url": "http://jensz12.com",
  "author": "Jensz12, Nina Corfixen",
+ "minimum_chrome_version": "18",
  "icons": {"16": "images/icon16.png",
  	   "32": "images/icon32.png",
            "48": "images/icon48.png",
