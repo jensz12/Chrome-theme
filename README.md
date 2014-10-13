@@ -5,7 +5,7 @@ Jensz12 Chrome theme
 <br>Find the release here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
 <br>Or her, if you want to compile it your self: https://github.com/Jensz12site/Chrome-theme/releases</br>
 
-<h1>How to compile a Chrome theme:</h1>
+<h1>How to compile a Chrome theme (In Chrome/Chromium):</h1>
 
 * Bring up the Extensions management page by going to this URL:
 chrome://extension.
