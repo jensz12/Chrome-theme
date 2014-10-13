@@ -8,8 +8,8 @@ Or her, if you want to compile it your self: https://github.com/Jensz12site/Chro
 How to compile a Chrome theme/app
 ============
 
-Bring up the Extensions management page by going to this URL:
-chrome://extensions
+<br>Bring up the Extensions management page by going to this URL:
+chrome://extensions</br>
 Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
 Click the Pack extension button. A dialog appears.
 In the Extension root directory field, specify the path to the extension's folder—for example, C:\myext. (Ignore the other field; you don't specify a private key file the first time you package a particular extension.)
