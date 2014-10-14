@@ -4,6 +4,9 @@ Jensz12 Theme for Google Chrome/Chromium
 <br>Find the release in the webstore here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
 <br>Or here if you want to compile it yourself: https://github.com/Jensz12site/Chrome-theme/releases</br>
 
+<h3>Why is <code>"minimum_chrome_version": "18"</code></h3>
+Beacuse from Chrome 18 the manifest version is 2. Version 2 is not supported in Chrome 17 or older
+
 <h1>How to compile a Chrome theme (In Chrome/Chromium):</h1>
 
 * Bring up the Extensions management page by going to this URL:
