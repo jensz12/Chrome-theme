@@ -20,6 +20,6 @@ chrome://extension.
 <h2>How to compile a Chrome theme (The unoffical but easy way)</h2>
  * Just zip the whole thing, and change the file format to .crx
 
-<br>Note to self:</br>
-<br>Check this, if something is broken: https://developer.chrome.com/extensions/manifest</br>
+<h1>Is something broken?</h1>
+<br>https://developer.chrome.com/extensions/manifest</br>
 <br>https://developer.chrome.com/extensions/themes</br>
