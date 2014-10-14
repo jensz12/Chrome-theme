@@ -17,9 +17,6 @@ chrome://extension.
 * Click Package. The packager creates two files: a .crx file, which is the actual extension that can be installed, and a .pem file, which contains the private key.
 * https://developer.chrome.com/extensions/packaging
 
-<h2>How to compile a Chrome theme (The unoffical but easy way)</h2>
- * Just zip the whole thing, and change the file format to .crx
-
 <h1>Is something broken?</h1>
 <br>https://developer.chrome.com/extensions/manifest</br>
 <br>https://developer.chrome.com/extensions/themes</br>
