@@ -1,12 +1,7 @@
 ############
 ## Environnement
+## For use on my PC, when creating local changes. Windows would like to upload thumbs.db, because there are image files
 ############
 
 # Windows image file caches
 Thumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Mac crap
-.DS_Store
