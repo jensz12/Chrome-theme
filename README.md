@@ -7,7 +7,7 @@ Jensz12 Theme for Google Chrome/Chromium
 <h3>Why is <code>"minimum_chrome_version": "18"</code></h3>
 Beacuse from Chrome 18 the manifest version is 2. Version 2 is not supported in Chrome 17 or older
 
-<h1>How to compile a Chrome theme (In Chrome/Chromium):</h1>
+<h1>How to compile a Chrome theme (In Chrome/Chromium)(The official way):</h1>
 
 * Bring up the Extensions management page by going to this URL:
 chrome://extension.
@@ -16,7 +16,9 @@ chrome://extension.
 * In the Extension root directory field, specify the path to the extension's folder—for example, C:\myext. (Ignore the other field; you don't specify a private key file the first time you package a particular extension.)
 * Click Package. The packager creates two files: a .crx file, which is the actual extension that can be installed, and a .pem file, which contains the private key.
 * https://developer.chrome.com/extensions/packaging
-* Or just zip the whole thing, and change the file format to .crx
+
+<h2>How to compile a Chrome theme (The unoffical but easy way)</h2>
+ * Just zip the whole thing, and change the file format to .crx
 
 <br>Note to self:</br>
 <br>Check this, if something is broken: https://developer.chrome.com/extensions/manifest</br>
