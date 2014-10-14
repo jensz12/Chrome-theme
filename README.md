@@ -9,6 +9,7 @@ Beacuse from Chrome 18 the manifest version is 2. Version 2 is not supported in 
 
 <h1>How to compile a Chrome theme (In Chrome/Chromium)(The official way):</h1>
 
+* Download the newest release of the theme here: https://github.com/Jensz12site/Chrome-theme/releases
 * Bring up the Extensions management page by going to this URL:
 chrome://extension.
 * Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
