@@ -16,7 +16,7 @@ chrome://extension.
 * In the Extension root directory field, specify the path to the extension's folder—for example, C:\myext. (Ignore the other field; you don't specify a private key file the first time you package a particular extension.)
 * Click Package. The packager creates two files: a .crx file, which is the actual extension that can be installed, and a .pem file, which contains the private key.
 * https://developer.chrome.com/extensions/packaging
-
+* Or just zip the whole thing, and change the file format to .crx
 
 <br>Note to self:</br>
 <br>Check this, if something is broken: https://developer.chrome.com/extensions/manifest</br>
