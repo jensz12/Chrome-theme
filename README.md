@@ -19,5 +19,6 @@ chrome://extension.
 * https://developer.chrome.com/extensions/packaging
 
 <h1>Is something broken?</h1>
-<br>https://developer.chrome.com/extensions/manifest</br>
-<br>https://developer.chrome.com/extensions/themes</br>
+* https://developer.chrome.com/extensions/manifest
+* https://developer.chrome.com/extensions/themes
+* https://code.google.com/p/chromium/wiki/ThemeCreationGuide
