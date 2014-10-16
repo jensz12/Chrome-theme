@@ -1,6 +1,6 @@
 Jensz12 Theme for Google Chrome/Chromium
 ============
-
+![Jensz12](images/theme_ntp_attribution.png)
 <br>Find the release in the webstore here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
 <br>Or here if you want to compile it yourself: https://github.com/Jensz12site/Chrome-theme/releases</br>
 <br>Or here if your a Google Code kind of person: https://code.google.com/p/jensz12-chrome</br>
