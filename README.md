@@ -1,11 +1,11 @@
-![Jensz12](images/theme_ntp_attribution.png) Theme for Google Chrome/Chromium
+Jensz12 Theme for Google Chrome/Chromium
 ============
 
 <br>Find the release in the webstore here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
 <br>Or here if you want to compile it yourself: https://github.com/Jensz12site/Chrome-theme/releases</br>
 
 ============
-<h1>Why is <code>"minimum_chrome_version": "18"</code>?</h1>
+<h2>Why is <code>"minimum_chrome_version": "18"</code>?</h2>
 Beacuse Chrome 18 and older dosn't support <code>"manifest_version":2</code>
 
 ============
@@ -21,6 +21,8 @@ chrome://extension.
 * Click Package. The packager creates two files: a .crx file, which is the actual extension that can be installed, and a .pem file, which contains the private key.
 * Open the .crx file and the theme will be installed
 * https://developer.chrome.com/extensions/packaging
+
+![crxcreated](https://developer.chrome.com/static/images/package-success.png)
 
 ============
 
