@@ -1,5 +1,5 @@
 {
- "version":"2.8",
+ "version":"2.9",
  "manifest_version":2,
  "name":"Jensz12 Theme",
  "short_name":"Jensz12",
@@ -32,7 +32,8 @@
 	},
  "properties":{
 	"ntp_background_repeat":"no-repeat",
-	"ntp_background_alignment":"center"
+	"ntp_background_alignment":"center",
+	"ntp_logo_alternate" : 0
 	}
    }
   }
