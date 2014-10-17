@@ -24,6 +24,10 @@ chrome://extension.
 
 ![crxcreated](https://developer.chrome.com/static/images/package-success.png)
 
+* When using the private key to update, it will say this:
+
+![crxupdated](https://developer.chrome.com/static/images/update-success.png)
+
 ============
 
 <h1>Is something broken?</h1>
