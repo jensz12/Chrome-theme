@@ -30,3 +30,5 @@ chrome://extension.
 * https://developer.chrome.com/extensions/manifest
 * https://developer.chrome.com/extensions/themes
 * https://code.google.com/p/chromium/wiki/ThemeCreationGuide
+
+============
