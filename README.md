@@ -14,7 +14,7 @@ Beacuse Chrome 18 and older dosn't support <code>"manifest_version":2</code>
 
 * Download the newest release of the theme here: https://github.com/Jensz12site/Chrome-theme/releases
 * Bring up the Extensions management page by going to this URL:
-chrome://extension.
+chrome://extensions.
 * Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
 * Click the Pack extension button. A dialog appears.
 * In the Extension root directory field, specify the path to the extension's folder—for example, C:\myext. (Ignore the other field; you don't specify a private key file the first time you package a particular extension.)
