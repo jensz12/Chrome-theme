@@ -1,5 +1,5 @@
 {
- "version":"3.4",
+ "version":"3.6",
  "manifest_version":2,
  "name":"Jensz12 Theme",
  "short_name":"Jensz12",
@@ -15,9 +15,9 @@
  "theme":{
  "images":{
 	"theme_ntp_background":"images/theme_ntp_background.jpeg",
-	"theme_frame":"images/theme_frame.png",
-	"theme_toolbar":"images/theme_toolbar.png",
-	"theme_tab_background":"images/theme_tab_background.png",
+	"theme_frame":"images/theme_frame.jpg",
+	"theme_toolbar":"images/theme_toolbar.jpg",
+	"theme_tab_background":"images/theme_tab_background.jpg",
 	"theme_ntp_attribution":"images/theme_ntp_attribution.png"
 	},
  "colors":{
