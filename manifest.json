@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
  "version":"3.6",
+=======
+ "version":"3.5",
+>>>>>>> origin/master
  "manifest_version":2,
  "name":"Jensz12 Theme",
  "short_name":"Jensz12",
