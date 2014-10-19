@@ -7,7 +7,6 @@
  "homepage_url": "http://jensz12.com",
  "author": "Jensz12, Nina Corfixen",
  "minimum_chrome_version": "18",
- "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZ8ERZhSnUh7IKSkKjkAx/OpLfjk9VvpZvioOaOcWl3puKQZ/S86K8YX9jXLJbE+BAYqasd5bd85k+SrUdGzYL8/DUxFWqK+RGTg8KXhx0k44n0b5KoeZdLihFPOd3cu5X9m8b+Dn3tOCVcNRKO23/qJdYw+uIGgR3voc/mmDVgQIDAQAB",
  "icons": {"16": "images/icon16.png",
  	   "32": "images/icon32.png",
            "48": "images/icon48.png",
