@@ -1,4 +1,4 @@
-Jensz12 Theme for Google Chrome/Chromium
+Jensz12 Theme for Google Chrome
 ============
 
 <br>Find the release in the webstore here: https://chrome.google.com/webstore/detail/jensz12/lfcfgfboglfhoianmebpbemgbdepglgm</br>
