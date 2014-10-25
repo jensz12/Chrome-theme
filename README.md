@@ -26,7 +26,7 @@ chrome://extensions.
 
 ============
 
-<h1>Is something broken?</h1>
+<h1>If something is broken?</h1>
 * https://developer.chrome.com/extensions/manifest
 * https://developer.chrome.com/extensions/themes
 * https://code.google.com/p/chromium/wiki/ThemeCreationGuide
